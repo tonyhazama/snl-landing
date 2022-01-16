@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snl-landing/static/css/main.7ae68edf.chunk.css",
+    "main.js": "/snl-landing/static/js/main.18262f31.chunk.js",
+    "main.js.map": "/snl-landing/static/js/main.18262f31.chunk.js.map",
+    "runtime-main.js": "/snl-landing/static/js/runtime-main.3911d6de.js",
+    "runtime-main.js.map": "/snl-landing/static/js/runtime-main.3911d6de.js.map",
+    "static/js/2.83f6c416.chunk.js": "/snl-landing/static/js/2.83f6c416.chunk.js",
+    "static/js/2.83f6c416.chunk.js.map": "/snl-landing/static/js/2.83f6c416.chunk.js.map",
+    "static/js/3.03eb5ce3.chunk.js": "/snl-landing/static/js/3.03eb5ce3.chunk.js",
+    "static/js/3.03eb5ce3.chunk.js.map": "/snl-landing/static/js/3.03eb5ce3.chunk.js.map",
+    "index.html": "/snl-landing/index.html",
+    "static/css/main.7ae68edf.chunk.css.map": "/snl-landing/static/css/main.7ae68edf.chunk.css.map",
+    "static/js/2.83f6c416.chunk.js.LICENSE.txt": "/snl-landing/static/js/2.83f6c416.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/snl-landing/static/media/paladins.2abec719.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3911d6de.js",
+    "static/js/2.83f6c416.chunk.js",
+    "static/css/main.7ae68edf.chunk.css",
+    "static/js/main.18262f31.chunk.js"
+  ]
+}
