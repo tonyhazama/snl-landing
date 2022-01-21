@@ -2,6 +2,7 @@ import React from 'react';
 import { HashRouter, Route, Switch } from 'react-router-dom';
 import Landing from './landing';
 import Intro from './intro';
+// Created by https://tonyhazama.github.io/
 
 export default function App() {
   return (
